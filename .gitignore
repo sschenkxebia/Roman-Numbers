@@ -1,0 +1,6 @@
+.mypy_cache/
+.vscode/
+.cache/
+roman.egg-info/
+venv/
+__pycache__/
